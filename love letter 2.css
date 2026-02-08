@@ -363,11 +363,6 @@ body {
   text-align: center;
 }
 
-.music {
-  text-align: center;
-  margin-top: 4px;
-}
-
 .reset button {
   font-weight: 800;
   font-style: normal;
@@ -386,31 +381,6 @@ body {
   text-decoration: none;
   min-width: 120px;
   cursor: pointer;
-}
-
-.music button {
-  font-weight: 800;
-  font-style: normal;
-  transition: all 0.1s linear;
-  -webkit-appearance: none;
-  background-color: #d9534f;
-  border: solid 2px #d9534f;
-  border-radius: 4px;
-  color: #fff;
-  display: inline-block;
-  font-size: 14px;
-  text-transform: uppercase;
-  margin: 5px;
-  padding: 10px;
-  line-height: 1em;
-  text-decoration: none;
-  min-width: 120px;
-  cursor: pointer;
-}
-
-.music button:hover {
-  background-color: transparent;
-  color: #d9534f;
 }
 
 .reset button:hover {
